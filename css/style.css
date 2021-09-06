@@ -75,6 +75,8 @@ main .sobre-nosotros{
     align-items: center;
     justify-content: space-between;
     --padding-container: 0;
+
+
 }
 
 .container{
@@ -92,7 +94,7 @@ main .sobre-nosotros{
 }
 
 .nav__logo{
-    height: 20px;
+    height: 90px;
 }
 
 
